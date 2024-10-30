@@ -1,0 +1,1 @@
+# Resolvent-type-Learning-of-Koopman-Generators
